@@ -7,12 +7,11 @@ was **preliminarily accepted** for presentation at the
 **5th International Mobile, Intelligent, and Ubiquitous Computing Conference (MIUCC-2025)**.  
 
 📎 [See acceptance mail](./Mail.png)  
+[![Acceptance Mail](./Mail.png)](./Mail.png) 
+
 📎 [Full research paper](./Loan%20Prediction%20Research.pdf)  
 
-📎 Acceptance Mail  
-[![Acceptance Mail](./Mail.png)](./Mail.png)  
-📎 Full Research Paper  
-[![Research Paper]()](./Loan%20Prediction%20Research.pdf)  
+
 Although we could not present due to scheduling constraints, this acceptance reflects the **significance and quality** of our work.  
 The paper was **collaboratively written and formatted using Overleaf (LaTeX)** to ensure professional quality and consistency.  
 
